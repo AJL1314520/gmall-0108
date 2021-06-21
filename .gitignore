@@ -1,3 +1,8 @@
+# 后面带/代表的是忽略一个目录 不带/代表忽略的是一个文件
+.idea/
+*.iml
+target/
+
 # Compiled class file
 *.class
 
